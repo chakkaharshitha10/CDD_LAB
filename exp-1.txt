@@ -1,0 +1,1 @@
+Continuous Delivery (CD) is a software development practice where code changes are automatically built, tested, and deployed to production. DevOps is a culture and set of practices that promotes collaboration between development and operations teams to automate and streamline the entire software delivery process, enhancing efficiency and reliability.

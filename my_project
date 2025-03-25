@@ -1,0 +1,31 @@
+    1  docker --version
+    2  wsl --version
+    3  sudo apt update
+    4  jdk --version
+    5  sudo apt install openjdk-11-jdk -y
+    6  jdk --version
+    7  java --version
+    8  ansible --version
+    9  jenkins --version
+   10  docker --version
+   11  jenkins --version
+   12  sudo apt update
+   13  git --version
+   14  git config --global user.name "chakkaharshitha10"
+   15  git config --global user.email "chakkaharshitha10@gmail.com"
+   16  git config --list
+   17  mkdir my_project
+   18  cd my_project
+   19  git init
+   20  git remote add origin https://github.com/chakkaharshitha10/CDD_LAB.git
+   21  git remote -v
+   22  nano add_numbers.py
+   23  git add add_numbers.py
+   24  git commit -m "Added sample file to add two numbers"
+   25  git push origin master
+   26  git push origin main
+   27  git remote add origin https://github.com/chakkaharshitha10/CDD_LAB.git
+   28  git push origin master
+   29  git pull origin master --rebase
+   30  git push origin master
+   31  history > git_commands.log
